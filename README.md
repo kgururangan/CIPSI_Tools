@@ -3,4 +3,6 @@ Collection of scripts that are used to parse and manipulate CIPSI wavefunctions 
 
 Content Descriptions:
 
-  parse_ci_vectors.py
+```
+parse_ci_vectors.py
+```
