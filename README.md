@@ -2,6 +2,7 @@
 Collection of scripts that are used to parse and manipulate CIPSI wavefunctions generated using Quantum Package 2.0. These codes were used in ongoing research on selected-CI-driven CC(P;Q) and externally corrected coupled-cluster (ec-CC) methods. For more information, please see the papers
 
 I. Magoulas, K. Gururangan, P. Piecuch, J. E. Deustua, and J. Shen, arXiv e-prints, arXiv:2102.10143 (2021), arXiv:2102.10143 [physics.chem-ph]
+
 K. Gururangan, J. E. Deustua, J. Shen, and P. Piecuch, In Preparation.
 
 Content Descriptions:
